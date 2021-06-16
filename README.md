@@ -1,5 +1,6 @@
 # submission_0611
 
+The code has been tested under Pytorch 1.7
 
 To test the code, simply run the following command  
 ```
